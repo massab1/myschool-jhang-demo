@@ -11,7 +11,7 @@
 - 📝 Results, quizzes, diary, materials
 
 ## 🛠️ Tech Stack
-Python · Django 5.0 · SQLite · HTML/CSS/JS · PythonAnywhere
+Python · .JAVA . Django 5.0 · PostgreSQL · HTML/CSS/JS · AWS
 
 ## 💼 Available for Custom Deployment
 Contact: linkedin.com/in/musabfarouq
