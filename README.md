@@ -2,9 +2,6 @@
 
 > Complete Django school management system — live in production.
 
-🌐 **Live Demo:** https://massabfarooq.pythonanywhere.com  
-🔑 **Demo Login:** username: `demo` · password: `demo1234`
-
 ## 📦 Modules (20+)
 - 🎓 Admissions with document management
 - 💰 Fee Management with partial payments
